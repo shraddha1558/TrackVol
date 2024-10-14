@@ -37,5 +37,5 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/TrackVol.git
+   git clone https://github.com/shraddha1558/TrackVol.git
    cd TrackVol
