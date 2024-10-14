@@ -33,9 +33,8 @@
 - Numpy
 - Comtypes
 
-## Installation
 
-1. Clone this repository:
+ Clone this repository:
    ```bash
    git clone https://github.com/shraddha1558/TrackVol.git
    cd TrackVol
